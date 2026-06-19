@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pinecone
+groq
+requests
+python-dotenv
+pypdf
+python-multipart
+langgraph
+langchain
+langchain-groq
+langchain-community
+scikit-learn
+numpy
